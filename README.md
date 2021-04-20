@@ -1,7 +1,7 @@
-- 👋 Hi, I’m summitsmith
+- 👋 Hi, I’m Ssembatya Shafic
 - 👀 I’m interested in internet of things
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking forward to collaborating with anyone in developing websites
+- 🌱 I’m currently at uganda martyrs university, great emphasis on web development
+- 💞️ I’m looking forward to collaborating with anyone in networks,android app development,smartphone flashing and firmware installation of all types,finally developing websites
 - 📫 reach me @ summitsmith842@gmai.com 0757839407
 
 <!---
